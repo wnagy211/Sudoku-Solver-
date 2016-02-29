@@ -1,0 +1,6 @@
+
+You must write a Java SudokuSolver using a recursive, depth-first, brute force technique.  You must allow a user to enter a board.  You must display a solution in a 9x9 grid format.  To receive full credit on this assignment, you must implement some computation-time-saving techniques.  They are:
+
+1.)  Do not expand a board that has an obvious duplicate row, column and/or 3x3 grid,
+
+2.)  End the process when any solution has been discovered.
