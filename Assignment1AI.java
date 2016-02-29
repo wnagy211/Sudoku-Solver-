@@ -3,14 +3,7 @@ package sudokusolver;
 import java.util.*;
 import java.io.*;
 
-/**
- * This class contains methods to read a sudoku puzzle from a text file,
- * solve the puzzle, and output the results.
- * 
- * Jacob Karshin
- * CS 111, Section 001
- * 2/15/13
- */
+
 public class SudokuSolver {
     // constants
     
